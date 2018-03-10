@@ -13,3 +13,13 @@ is Firebase Auth.
 ## How to Setup in your local machine?
 First, Clone or Download repo then go to Android Studio and import the project. Also set the API level to 26 in project structure.
 Then run the project, if you find any errors feel free open an issue.
+
+# Built with
+* Android Studio
+* Firebase
+
+## License
+This project is completely licensed under MIT License.** Check the [LICENSE.md](https://github.com/SouravInsights/EmailAuthenticationApp/blob/master/LICENSE.md)
+
+
+
