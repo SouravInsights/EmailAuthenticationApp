@@ -14,7 +14,7 @@ is Firebase Auth.
 First, Clone or Download repo then go to Android Studio and import the project. Also set the API level to 26 in project structure.
 Then run the project, if you find any errors feel free open an issue.
 
-# Built with
+## Built with
 * Android Studio
 * Firebase
 
